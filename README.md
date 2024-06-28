@@ -1,6 +1,7 @@
 # Corsair Dominator Platinum
 
-- Needed something to turn off the LEDs on the RAM sticks...
+- Needed something to turn off (or set RGB color) of the LEDs on the RAM sticks...
+- Scans i2c bus for the specific RAM sticks and sets the RGB color of the LEDs.
 
 ## Dependencies
 
