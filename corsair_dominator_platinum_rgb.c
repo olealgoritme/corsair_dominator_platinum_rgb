@@ -13,7 +13,6 @@
 #include <string.h>
 #include <sys/ioctl.h>
 #include <unistd.h>
-#include <errno.h>
 #include <i2c/smbus.h>
 
 #define I2C_BUS "/dev/i2c-1"
